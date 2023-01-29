@@ -1,9 +1,12 @@
 class Translation(object):
-    START_TEXT = """Hi {},
-I'm X-URL-Uploader!
-You can upload HTTP/HTTPS direct link, Using this bot!
-
-/help for more details!"""
+    START_TEXT = """السلام عليكم يا  {},
+أنا بوت رفع الملفات , فقط أرسل لي رابط تحميل مباشر و سأرفع لك الملف إلى تلجرام 
+- لا تستعمل البوت في رفع شيء حرام 
+- لبقية البوتات هنا 
+https://t.me/ibnAlQyyim/1120
+- لدعم استمرار المشروع هنا 
+http://paypal.me/kelectronic89 
+"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
